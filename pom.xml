@@ -9,9 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Client</module>
-        <module>MasterServer</module>
-        <module>RegionServer</module>
+        <module>Code/Client</module>
+        <module>Code/MasterServer</module>
+        <module>Code/RegionServer</module>
+        <module>code/MasterServer</module>
     </modules>
 
     <properties>
